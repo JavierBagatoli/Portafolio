@@ -3512,16 +3512,17 @@ input, select, textarea {
 
 .columna{
 	display: grid;
-	grid-column: 1;
+	grid-column: 4;
 	grid-row: 10;
 	row-gap: 10px;
 
+
 }
 .item{
-	margin-left: 8vw;
+	grid-column: 2;
 }
 .item2{
-	margin-left: 16vw;
+	grid-column: 3;
 }
 .icono{
 	width: 80px;
@@ -3539,10 +3540,14 @@ input, select, textarea {
 	border-style: solid;
 	border-color: #191a18;
 	border-width: 3px;
+	width: minmax(150px, 500px);
 }
 .lista{
 	margin-left: 2vw;
 }
 .justificado{
 	text-align: justify;
+}
+.grid-estilo{
+	display: grid;
 }
