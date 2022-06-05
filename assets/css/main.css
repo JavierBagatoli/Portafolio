@@ -3532,6 +3532,7 @@ input, select, textarea {
 }
 .fondo{
 	background-color: rgb(25, 26, 24,0.5);
+	padding: 20px;
 }
 
 .circulo{
