@@ -3540,3 +3540,9 @@ input, select, textarea {
 	border-color: #191a18;
 	border-width: 3px;
 }
+.lista{
+	margin-left: 2vw;
+}
+.justificado{
+	text-align: justify;
+}
