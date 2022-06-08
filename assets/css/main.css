@@ -3558,3 +3558,6 @@ input, select, textarea {
 h1, h2, h3, p, ul, li, a, i{
 	color: white;
 }
+.iconoACL{
+	height: 100px;
+}
